@@ -1,0 +1,74 @@
+.buttons {
+    background-color: transparent;
+    border: none;
+    outline: 0;
+    margin: 10px;
+    transition: all 0.5s;
+}
+.buttons:hover {
+    transform: scale(1.1);
+}
+.bold {
+    font-weight: bold;
+}
+.not_bold {
+    font-weight: 100;
+}
+.italic {
+    font-style: italic;
+}
+.not_italic {
+    font-style: normal;
+}
+.title {
+    font-size: 2rem; 
+    font-weight: bold;
+}
+.not_title {
+    font-size: 1rem;
+    font-weight: normal;
+}
+.upper_case {
+    text-transform: uppercase;
+}
+.not_upper_case {
+    text-transform: lowercase;
+}
+.underline {
+    text-decoration: underline;
+}
+.not_underline {
+    text-decoration: none;
+}
+.mark {
+    border-left: 5px solid #9747FF;
+    background-color: var(--default-background);
+    min-height: 40px;
+    padding: 30px 15px 15px 70px;
+    position: relative;
+    text-transform: capitalize;
+    font-style: italic;
+}
+.mark_img {
+    width: 30px;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+}
+.icons {
+    width: 25px;
+    height: 25px;
+}
+.icons2 {
+    width: 20px;
+    height: 20px;
+}
+.icons3 {
+    width: 35px;
+    height: 35px;
+}
+@media (max-width: 768px) {
+    .buttons {
+        margin: 0;
+    }
+}
