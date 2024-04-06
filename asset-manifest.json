@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RichText/static/css/main.d74b37b6.css",
+    "main.js": "/RichText/static/js/main.6eedb204.js",
+    "static/js/453.12f885c6.chunk.js": "/RichText/static/js/453.12f885c6.chunk.js",
+    "static/media/aspas.svg": "/RichText/static/media/aspas.66682015db077b6be2ea6e723ce33d4a.svg",
+    "index.html": "/RichText/index.html",
+    "main.d74b37b6.css.map": "/RichText/static/css/main.d74b37b6.css.map",
+    "main.6eedb204.js.map": "/RichText/static/js/main.6eedb204.js.map",
+    "453.12f885c6.chunk.js.map": "/RichText/static/js/453.12f885c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d74b37b6.css",
+    "static/js/main.6eedb204.js"
+  ]
+}
